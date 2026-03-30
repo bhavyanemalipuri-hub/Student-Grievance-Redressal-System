@@ -117,7 +117,8 @@ Manage all grievances with search and filter options.
 ## Contributors
 
 - Nivas
-
+- bhavya
+- ganesh
 ## License
 
 This project is for educational purposes.
